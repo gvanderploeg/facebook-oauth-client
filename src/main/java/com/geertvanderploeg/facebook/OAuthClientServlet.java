@@ -28,7 +28,7 @@ public class OAuthClientServlet extends HttpServlet {
     "&code=%s";
 
   private static final String CLIENT_ID = "165680210237078";
-  private static final String CLIENT_SECRET = "831f6fc9dee3c2bc2fddd6f841bb651b";
+  private static final String CLIENT_SECRET = "??";
   private static final String REDIRECT_URI = "http://localhost:8080/facebook-oauth-callback";
 
   @Override
